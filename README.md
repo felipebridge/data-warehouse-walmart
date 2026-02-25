@@ -1,6 +1,6 @@
-# Proyecto Data Warehouse – Sales Analytics
+# Proyecto Data Warehouse – Sales Analytics (Dataset Walmart)
 
-Este proyecto implementa un **Data Warehouse relacional orientado al análisis de ventas**, cubriendo todo el flujo desde la ingesta de datos transaccionales hasta su explotación analítica mediante un modelo dimensional y visualización en Power BI.
+Este proyecto implementa un **Data Warehouse relacional orientado al análisis de ventas de la compañia Walmart**, cubriendo todo el flujo desde la ingesta de datos transaccionales hasta su explotación analítica mediante un modelo dimensional y visualización en Power BI.
 
 El objetivo es transformar datos operativos en información estructurada y confiable para análisis histórico, métricas de negocio y toma de decisiones.
 
