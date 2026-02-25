@@ -1,5 +1,7 @@
 # Proyecto Data Warehouse – Sales Analytics (Dataset Walmart)
 
+![Dashboard Preview](docs/dashboard/Dashboard%20BI.png)
+
 Este proyecto implementa un **Data Warehouse relacional orientado al análisis de ventas de la compañia Walmart**, cubriendo todo el flujo desde la ingesta de datos transaccionales hasta su explotación analítica mediante un modelo dimensional y visualización en Power BI.
 
 El objetivo es transformar datos operativos en información estructurada y confiable para análisis histórico, métricas de negocio y toma de decisiones.
@@ -29,7 +31,9 @@ Los datos se cargan inicialmente en una capa **raw**, sin transformaciones anal�
 
 ---
 
-## Modelo de datos
+## Star Schema
+
+![Star Schema](docs/star%20schema/Star%20Schema%20.png)
 
 Modelo dimensional basado en **Star Schema**, optimizado para consultas OLAP.
 
@@ -46,7 +50,6 @@ Modelo dimensional basado en **Star Schema**, optimizado para consultas OLAP.
 
 El diseño permite análisis temporales, segmentación, agregaciones y comparaciones entre períodos con buen rendimiento.
 
-![Star Schema](docs/star%20schema/Star%20Schema%20.png)
 
 ---
 
@@ -92,7 +95,6 @@ Dashboard desarrollado en **Power BI**, conectado directamente al Data Warehouse
 - Rankings y segmentaciones  
 - Filtros dinámicos por fecha y dimensiones clave  
 
-![Dashboard Preview](docs/dashboard/Dashboard%20BI.png)
 
 ---
 
