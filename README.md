@@ -1,4 +1,4 @@
-# Proyecto Data Warehouse – Sales Analytics (Dataset Walmart)
+# Data Warehouse – Sales Analytics (Dataset Walmart)
 
 ![Dashboard Preview](docs/dashboard/Dashboard%20BI.png)
 
