@@ -1,4 +1,4 @@
-# Data Warehouse Project – Sales Analytics (Dataset Walmart)
+# Data Warehouse Project – Sales Analytics 
 
 ![Dashboard Preview](docs/dashboard/Dashboard%20BI.png)
 
